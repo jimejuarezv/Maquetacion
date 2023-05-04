@@ -1,0 +1,56 @@
+.todo {
+    width: 70rem;
+    height: 70rem;
+    border: 1px solid black;
+    margin: auto;
+}
+.azul {
+    width: 66rem;
+    height: 11rem;                                                              
+    margin: 2rem;
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    border: 1rem solid rgb(0, 0, 160);
+}
+
+.interior {
+    width: 66rem;
+    height: 30rem;
+    margin: 2rem;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.naranja {
+    width: 66rem;
+    height: 20rem;
+    margin: 2rem;
+    display: flex;
+    flex-direction: row;
+    background-color: orange;
+    border: 1rem solid rgb(177, 115, 0);
+
+
+}
+
+.rojo {
+    width: 20rem;
+    height: 29.9rem;
+    margin-right: 2rem;
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    border: 1rem solid rgb(175, 2, 2);
+ 
+}
+
+.verde {
+    width: 50rem;
+    background-color: rgb(39, 161, 39);
+    border: 1rem solid rgb(0, 99, 0);
+    height: 29.9rem;
+
+
+}
